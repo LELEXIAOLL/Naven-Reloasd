@@ -1,2 +1,1 @@
-# Naven-Reloasd
-OpenNaven-Reload最新版本src
+开源了readme，readme也在src里面，想什么:)
